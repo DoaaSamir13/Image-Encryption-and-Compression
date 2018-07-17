@@ -1,0 +1,16 @@
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\bioinformatics fcis material\3 rd year term 1\algorithm\project\PROJECT RELEASE\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+E:\Third Year\Algorithms Analysis & Design\labs\project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
